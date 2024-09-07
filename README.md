@@ -5,7 +5,7 @@
     <img align="center" alt="Rod-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
     <img align="center" alt="Rod-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
    <img align="center" alt="Rod-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-   <img align="center" alt="Rod-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+   <img align="center" alt="Rod-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
       <br><br>
        <img align="center" alt="Rod-Wp" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
       <img align="center" alt="Rod-Ci" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
