@@ -7,9 +7,8 @@
    <img align="center" alt="Rod-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Rod-Wp" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
       <img align="center" alt="Rod-Ci" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
-     <img align="center" alt="Rod-Laravel" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg">
-  <br><br>
   <img align="center" alt="Rod-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
+    <br><br>
       <img align="center" alt="Rod-Vue" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
    
 <img align="center" alt="Rod-BS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
