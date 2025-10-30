@@ -9,9 +9,9 @@
       <img align="center" alt="Rod-Ci" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
   <img align="center" alt="Rod-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
     <br><br>
-      <img align="center" alt="Rod-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
       <img align="center" alt="Rod-Vue" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
-   
+  <img align="center" alt="Rod-TailW" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+
 <img align="center" alt="Rod-BS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="Rod-Jquery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg">
              <img align="center" alt="Rod-vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
