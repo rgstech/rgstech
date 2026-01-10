@@ -11,9 +11,9 @@
   <img align="center" alt="Rod-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
 <img align="center" alt="Rod-BS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="Rod-Jquery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg">
+               <img align="center" alt="Rod-htmx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg">
              <img align="center" alt="Rod-vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
               <img align="center" alt="Rod-canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-              <img align="center" alt="Rod-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Rod-gimp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
               
 </div>
