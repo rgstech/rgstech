@@ -21,11 +21,11 @@
 </div>
 <br>
 <br>
-<h3> Statistics: </h3>
+<!-- <h3> Statistics: </h3>
  <div>
   <a href="https://github.com/rgstech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgstech&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/><br><br>
-    
+ >
 [![rgstech top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rgstech&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <br>
