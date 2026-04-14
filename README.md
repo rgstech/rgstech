@@ -1,61 +1,21 @@
 <h4>🛠️ Tech Stack</h4>
 
----
-
 ##### 🌐 Languages
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-</div>
-
----
+<img alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"><img alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"><img alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"><img alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"><img alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"><img alt="Dart" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg">
 
 ##### 📦 Frameworks & Libraries
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="WordPress" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
-  <img alt="WooCommerce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
-  <img alt="CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
-  <img alt="Bootstrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-  <img alt="jQuery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg">
-  <img alt="HTMX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg">
-  <img alt="Alpine.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg">
-</div>
-
----
+<img alt="WordPress" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"><img alt="WooCommerce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"><img alt="CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg"><img alt="Bootstrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img alt="jQuery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg"><img alt="HTMX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg"><img alt="Alpine.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg"><img alt="Flutter" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg">
 
 ##### 🗄️ Databases
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
-  <img alt="SQLite" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
-</div>
-
----
+<img alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"><img alt="SQLite" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
 
 ##### 🔧 Tools
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="VS Code" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
-</div>
-
----
+<img alt="VS Code" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
 
 ##### 🎨 Design
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <img alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-  <img alt="GIMP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
-</div>
-
----
+<img alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"><img alt="GIMP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
 
 <h4>📊 Statistics</h4>
-
 <div align="center">
   <a href="https://github.com/rgstech">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgstech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
