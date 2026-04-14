@@ -1,31 +1,65 @@
-<h3> Powered by: </h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rod-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Rod-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-    <img align="center" alt="Rod-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-    <img align="center" alt="Rod-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-   <img align="center" alt="Rod-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
-  <img align="center" alt="Rod-Wp" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
-    <img align="center" alt="Rod-Woo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
-      <img align="center" alt="Rod-Ci" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
-   <br><br>
-  <img align="center" alt="Rod-MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
-<img align="center" alt="Rod-BS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-  <img align="center" alt="Rod-Jquery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg">
-  <img align="center" alt="Rod-htmx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg">
-               <img align="center" alt="Rod-alpinejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg">
-             <img align="center" alt="Rod-vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
-              <img align="center" alt="Rod-canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-  <img align="center" alt="Rod-gimp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
-              
+<h4>🛠️ Tech Stack</h4>
+
+---
+
+##### 🌐 Languages
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
 </div>
-<br>
-<h3> Statistics: </h3>
-<br>
-<div>
+
+---
+
+##### 📦 Frameworks & Libraries
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="WordPress" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg">
+  <img alt="WooCommerce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
+  <img alt="CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg">
+  <img alt="Bootstrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+  <img alt="jQuery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg">
+  <img alt="HTMX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg">
+  <img alt="Alpine.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg">
+</div>
+
+---
+
+##### 🗄️ Databases
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
+  <img alt="SQLite" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
+</div>
+
+---
+
+##### 🔧 Tools
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="VS Code" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
+</div>
+
+---
+
+##### 🎨 Design
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+  <img alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  <img alt="GIMP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
+</div>
+
+---
+
+<h4>📊 Statistics</h4>
+
+<div align="center">
   <a href="https://github.com/rgstech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgstech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgstech&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgstech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br/><br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgstech&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-  
