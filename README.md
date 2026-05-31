@@ -1,16 +1,13 @@
-## Hi there 👋
+<h4>🛠️ Powered By</h4>
 
-<!--
-**rgstech/rgstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"><img alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"><img alt="JavaScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"><img alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"><img alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"><img alt="WordPress" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"><br><img alt="WooCommerce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"><img alt="CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg"><img alt="Laravel" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"><img alt="Bootstrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"><img alt="jQuery" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg"><img alt="HTMX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original.svg"><br><img alt="Alpine.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg"><img alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"><img alt="SQLite" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"><img alt="VS Code" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"><img alt="Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"><img alt="GIMP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>📊 Statistics</h4>
+<div align="center">
+  <a href="https://github.com/rgstech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgstech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br/><br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgstech&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
